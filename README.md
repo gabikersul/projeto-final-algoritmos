@@ -4,7 +4,7 @@
 
 **Funcionalidades**:
 - Adiciona contatos
-- Remove vontatos
+- Remove contatos
 - Lista os contatos
 - Procura por id
 - Procura por nome
