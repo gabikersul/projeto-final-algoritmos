@@ -1,4 +1,4 @@
-##Projeto Final - Algoritmos e Programação ll
+#Projeto Final - Algoritmos e Programação ll
 
 ##Agenda de Contatos
 
@@ -18,7 +18,7 @@
 
          ./gradlew run
 
-Teste:
+**Teste**:
 - Gera o arquivo index.html com os resultados dos testes realizados. O arquivo se encontra dentro de build/reports/tests/test.
 
          ./gradlew test
